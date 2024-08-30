@@ -7,4 +7,4 @@ six==1.14.0
 tensorflow-datasets==2.1.0
 tensorflow-addons==0.8.3
 dlib==19.20.0
-opencv-python==4.3.0.36
+opencv-python==4.8.1.78
